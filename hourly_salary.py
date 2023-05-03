@@ -50,7 +50,7 @@ result = Label(root, text="Result", bg="#ff7096",
                fg='#000814', font=('Times new roman', 22, 'bold'))
 result.place(x=20, y=480, width=460, height=60)
 
-footer = Label(root, text='Dedicated to Priyanshi',
+footer = Label(root, text='Dedicated to Ayush Silarpuria',
                font=('Arial', 7), bg='#D14D72')
 footer.place(x=200, y=580)
 
